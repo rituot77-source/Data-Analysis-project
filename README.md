@@ -7,6 +7,8 @@ I am a data analytics student passionate about turning data into meaningful insi
 .SQl
 .Python
 .Power BI
+
+
 #Projects
 This repository contains my data analysis projects,dashboards,reports,and datasets.
 #Contact
