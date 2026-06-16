@@ -7,7 +7,7 @@ I am a data analytics student passionate about turning data into meaningful insi
 .SQl
 .Python
 .Power BI
-# Projects:
+# Projects
 This repository contains my data analysis projects,dashboards,reports,and datasets.
-# Contace
+# Contact
 https://www.linkedin.com/in/ritu-yadav-a23aba336
